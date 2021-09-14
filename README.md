@@ -2,7 +2,7 @@
 
 ### Hi, I'm Kaya 👋
 
-I’m an iOS developer, writer and public speaker. I'm the creator of [We Read Too](wereadtoo.com), a book resource app that features books for kids and teens with main characters of colors written by Black, Latinx, Asian and Indigenous authors. I currently work as a Senior Software Engineer at Calm. 
+I’m an iOS developer, writer and public speaker. I'm the creator of [We Read Too](wereadtoo.com), a book resource app that features books for kids and teens with main characters of colors written by Black, Latinx, Asian and Indigenous authors. I'm currently a Leaders for Global Operation Fellow at MIT pursuing a dual degree MBA and Masters in Civil and Environmental Engineering. Previously, I worked as a Senior Software Engineer at Calm and a iOS Engineer at Slack. 
 
 - 📱  I’m currently working on Calm, We Read Too and Irth App.
 - 🤓 I’m currently learning SwiftUI.

@@ -2,7 +2,7 @@
 
 ### Hi, I'm Kaya 👋
 
-I’m a technologist, writer and public speaker. I'm the creator of [We Read Too](wereadtoo.com), a book resource app that features books for kids and teens with main characters of colors written by Black, Latinx, Asian and Indigenous authors. Previously, I worked as a Senior Software Engineer at Calm and a iOS Engineer at Slack. 
+I’m a technologist, writer and public speaker. I'm the creator of [We Read Too](https://wereadtoo.com), a book resource app that features books for kids and teens with main characters of colors written by Black, Latinx, Asian and Indigenous authors. Previously, I worked as a Senior Software Engineer at Calm and a iOS Engineer at Slack. 
 
 - 🤓  Continually learning SwiftUI.
 - 💬  Ask me about mobile development and accessibility.
